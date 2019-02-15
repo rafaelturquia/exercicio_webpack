@@ -1,6 +1,8 @@
 import 'react';
 
-export default  props => (
+import './style.css';
+
+export default props => (
   <h1>Ola!</h1>
 )
 
